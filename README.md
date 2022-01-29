@@ -1,9 +1,7 @@
-### Hi there 👋
+### Hello, fellow visitors <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Sirapat Jariyanantakul (Mix)
 
-<!--
-**extramix/extramix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<!-- Here are a few fun facts about me:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
