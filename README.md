@@ -8,9 +8,7 @@
 
 </p>
 
-🍿 Currently looking for internship opportunities this summer (starting June.) Feel free to contact me if you want to get in touch! My contact details are provided in the resume.
-
-<!-- Here are a few fun facts about me:
+<!-- fun facts about me:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
