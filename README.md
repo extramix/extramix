@@ -1,5 +1,7 @@
 ### Hello, fellow visitors <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+<p><strong>NOTE: Anyone who's coming from Fiverr, please contact me through mixsirapat.translation@gmail.com</strong></p>
+
 <p>My name is <strong>Sirapat Jariyanantakul (Mix)</strong>, interested in Front-end development, and here's the tech stack I code with:</p>
 <p>
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
