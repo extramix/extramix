@@ -5,7 +5,6 @@
 <p>My name is <strong>Sirapat Jariyanantakul (Mix)</strong>, interested in Front-end development, and here's the tech stack I code with:</p>
 <p>
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-<img alt="Svelte" src="https://img.shields.io/badge/-Svelte-ff3e00?style=flat-square&logo=svelte&logoColor=white"/>
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 
 </p>
